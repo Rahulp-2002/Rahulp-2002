@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 <div align="center">
     <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/refs/heads/master/images/welcome.png"/>
 </div>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/refs/heads/master/images/welcome.png" alt="Anilnayak"/>
+</div>
