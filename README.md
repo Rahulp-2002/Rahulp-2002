@@ -17,7 +17,7 @@
 
 <div align="center">
     <h1>
-       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+Profile!;Full+Stack+Developer;Python+%7C+Django+%7C;Let's+Build+Something+Awesome!" />
+       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Python+Developer;Python+%7C+Django+%7C+Rest+%7c;Let's+Build+Something+Awesome!" />
     </h1>
 </div>
  <div style="max-width: 900px; margin: 20px auto; padding: 20px; background: rgba(51, 255, 51, 0.1); border-radius: 10px; border-left: 4px solid #33FF33;">
@@ -45,14 +45,10 @@ I enjoy solving problems, debugging, and ensuring seamless integration between b
 </table>
 
 <!-- <div align="center">
-
 ### 🐍 **Git Commits Snake Game**
-
 ![snake gif](https://github.com/Rahulp-2002/Rahulp-2002/blob/output/github-snake-dark.svg)
 </div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Rahulpradhan"/>
-
 <div align="center"> -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Rahulpradhan"/>
 
